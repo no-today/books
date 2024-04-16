@@ -25,6 +25,7 @@
 - 精益思想 [azw3](book/精益思想.azw3) | [epub](book/精益思想.epub)
 - 精益创业 [azw3](book/精益创业.azw3)
 - 一人公司 [epub](book/一人公司.epub)
+- 软技能 [azw3](book/软技能.azw3) | [epub](book/软技能.epub)
 
 ## IV
 
@@ -33,6 +34,6 @@
 
 ## V
 
-- 算法（第4版） [azw3](book/算法（第4版）.azw3) | [epub](book/算法（第4版）.epub)
+- 算法（第4版） [azw3](book/算法（第4版）.azw3)
 - 架构整洁之道 [azw3](book/架构整洁之道.azw3) | [epub](book/架构整洁之道.epub)
 - 凤凰架构 [azw3](book/凤凰架构.azw3) | [epub](book/凤凰架构.epub)
