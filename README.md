@@ -3,6 +3,7 @@
 - 人生 [azw3](book/人生.azw3) | [epub](book/人生.epub)
 - 平凡的世界 [azw3](book/平凡的世界.azw3) | [epub](book/平凡的世界.epub)
 - 杀死一只知更鸟 [azw3](book/杀死一只知更鸟.azw3) | [epub](book/杀死一只知更鸟.epub)
+- 我在北京送快递 [azw3](book/我在北京送快递.azw3) | [epub](book/我在北京送快递.epub)
 
 ## II
 
