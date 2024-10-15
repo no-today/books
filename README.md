@@ -27,7 +27,7 @@
 - 精益创业 [azw3](book/精益创业.azw3)
 - 一人公司 [epub](book/一人公司.epub)
 - 软技能 [azw3](book/软技能.azw3) | [epub](book/软技能.epub)
-- 原子习惯 [azw3](book/原子习惯.azw3) | [epub](book/原子习惯.epub)
+- 纳瓦尔宝典 [azw3](book/纳瓦尔宝典.azw3) | [epub](book/纳瓦尔宝典.epub)
 
 ## IV
 
