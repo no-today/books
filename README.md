@@ -28,6 +28,8 @@
 - 一人公司 [epub](book/一人公司.epub)
 - 软技能 [azw3](book/软技能.azw3) | [epub](book/软技能.epub)
 - 纳瓦尔宝典 [azw3](book/纳瓦尔宝典.azw3) | [epub](book/纳瓦尔宝典.epub)
+- 关于说话的一切 [epub](book/关于说话的一切.epub)
+- 思考,快与慢 [azw3](book/思考,快与慢.azw3) | [epub](book/思考,快与慢.epub)
 
 ## IV
 
