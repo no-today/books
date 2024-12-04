@@ -24,7 +24,7 @@
 - 效率脑科学 [azw3](book/效率脑科学.azw3) | [epub](book/效率脑科学.epub)
 - 考试脑科学 [azw3](book/考试脑科学.azw3) | [epub](book/考试脑科学.epub)
 - 精益思想 [azw3](book/精益思想.azw3) | [epub](book/精益思想.epub)
-- 精益创业 [azw3](book/精益创业.azw3)
+- 精益创业 [azw3](book/精益创业.azw3) | [epub](book/精益创业.epub)
 - 一人公司 [epub](book/一人公司.epub)
 - 软技能 [azw3](book/软技能.azw3) | [epub](book/软技能.epub)
 - 纳瓦尔宝典 [azw3](book/纳瓦尔宝典.azw3) | [epub](book/纳瓦尔宝典.epub)
